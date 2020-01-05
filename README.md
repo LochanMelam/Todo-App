@@ -17,7 +17,7 @@ to start  a todo app you need to have node.js installed in your pc
 * node.js will provide run-time environment to execute javascript code out side a browser
 for creating a react project runn the below commands in your terminal
 ```sh
-npx create-react-app #type-your-app-name
-cd #type-your-app-name
+npx create-react-app $type-your-app-name
+cd $type-your-app-name
 npm start
 ```
