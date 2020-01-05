@@ -13,4 +13,5 @@ __________________________________________________________________________
 **Features that won't work.**
 * you can't edit an added todo
 
-to start  a todo app you need to have react installed in your pc
+to start  a todo app you need to have node.js installed in your pc
+* node.js will provide run-time environment to execute javascript code out side a browser
