@@ -1,6 +1,7 @@
 # TodoApp
 This repo will give you the code to build a basic todo app
-* **Features of todo app**
+________________________________________________________________________
+**Features of todo app.**
 * adding a todo
 * displays date alongside the added todo
 * deleting a todo
