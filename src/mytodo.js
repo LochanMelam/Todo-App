@@ -6,7 +6,6 @@ export default class TodoForm extends Component {
 
   // this function will update the state of 'text' when user types
   handleInput = event => {
-    console.log("called");
     this.setState({
       text: event.target.value
     });
